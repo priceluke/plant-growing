@@ -1,0 +1,10 @@
+V:\Programming\plantgrowing\plantgrowing\bin\Debug\plantgrowing.exe.config
+V:\Programming\plantgrowing\plantgrowing\bin\Debug\plantgrowing.exe
+V:\Programming\plantgrowing\plantgrowing\bin\Debug\plantgrowing.pdb
+V:\Programming\plantgrowing\plantgrowing\bin\Debug\plantgrowing.xml
+V:\Programming\plantgrowing\plantgrowing\obj\Debug\plantgrowing.vbprojResolveAssemblyReference.cache
+V:\Programming\plantgrowing\plantgrowing\obj\Debug\plantgrowing.Resources.resources
+V:\Programming\plantgrowing\plantgrowing\obj\Debug\plantgrowing.vbproj.GenerateResource.Cache
+V:\Programming\plantgrowing\plantgrowing\obj\Debug\plantgrowing.exe
+V:\Programming\plantgrowing\plantgrowing\obj\Debug\plantgrowing.xml
+V:\Programming\plantgrowing\plantgrowing\obj\Debug\plantgrowing.pdb
